@@ -1,4 +1,4 @@
-#2D Bubbles simulation
+# 2D Bubbles simulation
 
 The camera is fixed looking at the center of the green boundary square from a
 perpendicular position. There is red circle inside the square.
@@ -24,9 +24,9 @@ specified. Adjust the values in order to reproduce the given figure as close as 
 The bubbles have the same velocity.
 
 
-#3D simulation
+# 3D simulation
 
-##Fully Controllable Camera 
+## Fully Controllable Camera 
 
 Up arrow - move forward
 Down arrow - move backward
