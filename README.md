@@ -1,4 +1,5 @@
 # 2D Bubbles simulation
+![2D Simulation](GIF/2d.gif)
 
 The camera is fixed looking at the center of the green boundary square from a
 perpendicular position. There is red circle inside the square.
@@ -25,6 +26,7 @@ The bubbles have the same velocity.
 
 
 # 3D simulation
+![3D Simulation](GIF/3d.gif)
 
 ## Fully Controllable Camera 
 
